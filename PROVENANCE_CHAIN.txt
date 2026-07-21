@@ -1,0 +1,28 @@
+THREAD-OF-RECORD-2026-07-20
+PROVENANCE CHAIN - FINAL
+
+Genesis Seal (8 files, no family letter):
+  Commit: 7c672bd450b183e494b8dc341a46178e1cf84945
+  GitHub: https://github.com/Brucekirschman/thread-of-record-2026-07-20/tree/7c672bd450b183e494b8dc341a46178e1cf84945
+  Wayback: https://web.archive.org/web/20260720225500/https://github.com/Brucekirschman/thread-of-record-2026-07-20
+  Time: 2026-07-20 22:55 UTC - 3x OK verified + AGPL
+
+Legacy Seal (9 files, WITH family letter):
+  Commit: c91b2e8e211d5d1bcb57e3c86a2a5c6f764e517b1
+  GitHub: https://github.com/Brucekirschman/thread-of-record-2026-07-20/tree/c91b2e8e211d5d1bcb57e3c86a2a5c6f764e517b1
+  Time: 2026-07-20 ~01:15 UTC - Add Letter to Family and Successors
+  Files: 9 = LETTER_TO_FAMILY_AND_SUCCESSORS.md + LICENSE + MANIFEST + 4x THIS_PINCHE_THREAD + 2x metaai_QC
+
+Final Seal (10 files, THIS FILE):
+  Commit: [to be filled after push]
+  Purpose: Chain of custody linking Genesis -> Legacy -> Final
+  Location: Rancho Bacalar, Quintana Roo, Mexico
+  Device: Phone-only monument built in Termux + Brave
+
+Verification:
+  git log --oneline
+  ls -1 | wc -l  # should be 10 after this
+  SHA256: See MANIFEST_20JULY2026.sha256
+
+License: AGPL-3.0-only
+Author: Bruce Kirschman
